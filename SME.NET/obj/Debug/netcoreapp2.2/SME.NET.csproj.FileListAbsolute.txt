@@ -1,0 +1,14 @@
+C:\Users\vanla\source\repos\SME.NET\SME.NET\bin\Debug\netcoreapp2.2\SME.NET.deps.json
+C:\Users\vanla\source\repos\SME.NET\SME.NET\bin\Debug\netcoreapp2.2\SME.NET.runtimeconfig.json
+C:\Users\vanla\source\repos\SME.NET\SME.NET\bin\Debug\netcoreapp2.2\SME.NET.runtimeconfig.dev.json
+C:\Users\vanla\source\repos\SME.NET\SME.NET\bin\Debug\netcoreapp2.2\SME.NET.dll
+C:\Users\vanla\source\repos\SME.NET\SME.NET\bin\Debug\netcoreapp2.2\SME.NET.pdb
+C:\Users\vanla\source\repos\SME.NET\SME.NET\obj\Debug\netcoreapp2.2\SME.NET.csprojAssemblyReference.cache
+C:\Users\vanla\source\repos\SME.NET\SME.NET\obj\Debug\netcoreapp2.2\SME.NET.csproj.CoreCompileInputs.cache
+C:\Users\vanla\source\repos\SME.NET\SME.NET\obj\Debug\netcoreapp2.2\SME.NET.RazorAssemblyInfo.cache
+C:\Users\vanla\source\repos\SME.NET\SME.NET\obj\Debug\netcoreapp2.2\SME.NET.RazorAssemblyInfo.cs
+C:\Users\vanla\source\repos\SME.NET\SME.NET\obj\Debug\netcoreapp2.2\SME.NET.AssemblyInfoInputs.cache
+C:\Users\vanla\source\repos\SME.NET\SME.NET\obj\Debug\netcoreapp2.2\SME.NET.AssemblyInfo.cs
+C:\Users\vanla\source\repos\SME.NET\SME.NET\obj\Debug\netcoreapp2.2\SME.NET.RazorTargetAssemblyInfo.cache
+C:\Users\vanla\source\repos\SME.NET\SME.NET\obj\Debug\netcoreapp2.2\SME.NET.dll
+C:\Users\vanla\source\repos\SME.NET\SME.NET\obj\Debug\netcoreapp2.2\SME.NET.pdb
